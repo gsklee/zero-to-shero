@@ -1,7 +1,7 @@
 # Day 1
 
 ## Joining GitHub
-[GitHub](https://github.com/) is like Google Docs for code. Let's create a GutHub account.
+[GitHub](https://github.com/) is like Google Docs for code. Let's create a GitHub account.
 
 ## Reading
 * You Don't Know JS: Up & Going
