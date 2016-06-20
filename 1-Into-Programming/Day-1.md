@@ -15,7 +15,9 @@
 The **syntax** of a programming language is like the grammar of English.
 
 ### Statements
-A **statement** is roughly like a complete sentence in English. For example, "the value of *a*, which is the value of *b* multiplied by 2" is a statement.
+A **statement** is roughly like a complete sentence in English. For example, "the value of *b* multiplied by 2 is the value of *a*" is a statement.
+
+"the value of *a*, which is the value of *b* multiplied by 2"
 
 ### Expressions
 An **expression** is something that represents a **value**. For example, in the aforementioned sentence, there are a total of four expressions:
@@ -23,7 +25,7 @@ An **expression** is something that represents a **value**. For example, in the 
 * "the value of *b*"
 * "2"
 * "the value of *b* multiplied by 2"
-* "the value of *a*, which is the value of *b* multiplied by 2"
+* "the value of *a*", which is "the value of *b* multiplied by 2"
 
 ## Trying Out
 Open [ESNextbin](https://esnextb.in/) and enter code examples from the book, then click on the "Execute" button. Now open the console (⌥⌘I). The result should be something like this:
