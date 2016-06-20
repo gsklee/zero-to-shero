@@ -1,7 +1,7 @@
 # Day 1
 
 ## Joining GitHub
-[GitHub](https://github.com/) is like Google Docs for code.
+[GitHub](https://github.com/) is like Google Docs for code. Let's create a GutHub account.
 
 ## Reading
 * You Don't Know JS: Up & Going
@@ -32,7 +32,7 @@ Open [ESNextbin](https://esnextb.in/) and enter code examples from the book, the
 
 Try out the various examples provided by the book, and play around by substituting the numbers.
 
-## Homework
+## Exercise
 Write a program that:
 
 * Prompt the user to input a number
