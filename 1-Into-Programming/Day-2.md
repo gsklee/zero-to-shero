@@ -46,6 +46,19 @@ These are your logical *AND* and *OR*. For example:
 * `console.log(true && false)` will result in `false`
 * `console.log(true || false)` will result in `true`
 
+### (Extra) The `**` / `%` Operators
+These two operators were not mentioned inside today's reading material, but are needed to complete our exercises:
+
+* `**`: the exponentiation operator
+  * `2 * 2 * 2 * 2` is exactly the same with `2 ** 4`
+  * `3 * 3 * 3` is exactly the same with `3 ** 3`
+
+* `%`: the remainder operator
+  * `console.log(2 % 3)` will result in `2`
+  * `console.log(3 % 3)` will result in `0`
+  * `console.log(4 % 3)` will result in `1`
+  * `console.log(5 % 3)` will result in `2`
+
 ## Exercises
 1. Explain the following code; what does it do?
 
@@ -56,6 +69,8 @@ These are your logical *AND* and *OR*. For example:
   
   console.log(x *= x *= x);
   ```
+
+2. Rewrite the code in Ex. 1 using the `**` operator; the output should not be affected.
 
 2. Write a program that:
 
