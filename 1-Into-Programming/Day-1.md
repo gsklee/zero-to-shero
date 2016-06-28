@@ -5,9 +5,9 @@
 
 ## Reading
 * You Don't Know JS: Up & Going
-  * [Chapter 1: Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md)
-    * Code
-    * Try It Yourself
+  * Chapter 1: Into Programming
+    * [Code](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#code)
+    * [Try It Yourself](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#try-it-yourself)
 
 ## Concepts
 
