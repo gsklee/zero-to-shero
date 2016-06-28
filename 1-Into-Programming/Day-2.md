@@ -72,7 +72,7 @@ These two operators were not mentioned inside today's reading material, but are 
 
 2. Rewrite the code in Ex. 1 using the `**` operator; the output should not be affected.
 
-2. Write a program that:
+3. Write a program that:
 
   * Prompt the user to input a number `x`
   * Test if `x` is even
