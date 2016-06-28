@@ -46,7 +46,7 @@ These are your logical *AND* and *OR*. For example:
 * `console.log(true && false)` will result in `false`
 * `console.log(true || false)` will result in `true`
 
-## Exercise
+## Exercises
 1. Explain the following code; what does it do?
 
   (Hint: run the code and see how it works)
